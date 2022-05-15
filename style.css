@@ -1,0 +1,138 @@
+
+body{
+    text-align:center;
+    font-family: "Noto sans", Times, serif;
+    background-color:#e2e2e2;
+    color:#434242;
+    margin: 0px 0px 30px 0px;
+
+}
+
+h2{
+  color:#424144;
+  font-size:30px;
+  text-align:center;
+}
+.infancia{
+  color:#333338;
+  
+  
+}
+  
+.Juventude {
+  color:#333338;
+}
+
+.Vida_adulta{
+  color:#333338;
+ 
+  
+}
+section{
+    width:70%;
+    margin:0 auto;
+
+}
+section section{
+  width:70%;
+}
+h1{
+  font-size: 50px;
+  font-weight:300;
+  padding:30px;
+  padding-bottom:none;
+  margin:0;
+  color:white;
+  margin-top:1px;
+}
+h3{
+  font-size:20px;
+  font-style: italic;
+  color:white;
+  background:#cccc;
+}
+
+p{
+  line-height: 1.5;
+  font-size: 20px;
+  text-align:left;
+  
+}
+img{
+  width: 60%;
+  height:auto;
+}
+ul{
+  list-style-type:none;
+    line-height: 2;
+    
+  }
+
+a{
+  text-decoration:underline;
+  font-weight:bold;
+  color:#000;
+   font-weight:500;
+   padding-top:10px;
+  padding-bottom:20px;
+
+}
+
+
+img{
+  border: 5px solid;
+}
+#woman{
+  padding:30px;
+  font-size:20px;
+  padding-bottom:0;
+  color:#7d4040;
+}
+
+.melhoria{
+  background:#a0a0a0;
+  color:#black;
+}
+
+.texto{
+  text-align:center;
+}
+
+.menu-principal a{
+  color:black;
+   font-weight: bold;
+  text-decoration:underline;
+}
+.menu-principal{
+  height:70px;
+     background: #dcdbdb;
+  max-width:60%;
+  margin:0 auto;
+}
+  
+.menu-principal li{
+  padding-top:15px;
+  display:inline-block;
+  width:100px;
+  line-height: 2.5;
+  margin:0 59px;
+
+}
+
+.conteudo-ada{
+  text-align:left;
+  max-width:70%;
+  margin:0 auto;
+  padding-bottom:10px;
+}
+
+.tabela{
+  width:90%;
+}
+
+button{
+  background: #3ea83e;
+  border: 1px solid transparent;
+  padding: 2px 20px;
+  border-radius: 3px;
+ }
